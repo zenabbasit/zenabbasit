@@ -7,7 +7,17 @@ I prefer working on problems where there isn't immediately an obvious answer: ex
 Coding projects aren't the only way I practise problem solving. I also teach mathematics to high school and university students, which has become one of my favourite ways to keep developing that skill. Explaining a difficult problem in a way that actually makes sense to someone else forces me to look at it from different angles, break it down, and find simpler ways to approach it. Honestly, teaching has probably improved my own problem-solving skills more than I expected.
 
 💻 What I've Been Working On
-I've worked on projects involving machine learning, data analysis, statistics, and AI, with a mix of Python, R, and other tools. Some of the projects below explore things like recommendation systems, machine learning models, data-driven analysis, and using different approaches to solve interesting problems. Feel free to have a look around and check out some of my projects below!
+I've worked on projects involving machine learning, data analysis, statistics, and AI, with a mix of Python, R, and other tools. Some of the projects I've worked on include:
+
+💳[ONECard PLUS](https://github.com/HAMP-inc/OneCardPlus)
+A collaborative project developed by students at Wilfrid Laurier University to explore a digital student ID and payment platform. The project involved mobile ID functionality, Apple Wallet and Google Pay integration, AWS-backed data workflows, and NFC-based access and payment features.
+
+🪏Garden Logic
+A Flask and Pandas-based project using a rule-based approach to provide gardening recommendations from a database of 200+ entries.
+
+🍷Wine Classification
+A machine learning project exploring Random Forest classification and PCA on wine data.
+Feel free to have a look around and check out some of my projects below!
 
 ✨ Outside of Tech
 When I'm not working with data or solving math problems, you'll probably find me:
