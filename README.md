@@ -9,13 +9,13 @@ Coding projects aren't the only way I practise problem solving. I also teach mat
 💻 What I've Been Working On
 I've worked on projects involving machine learning, data analysis, statistics, and AI, with a mix of Python, R, and other tools. Some of the projects I've worked on include:
 
-💳[ONECard PLUS](https://github.com/HAMP-inc/OneCardPlus)
+💳 [ONECard PLUS](https://github.com/HAMP-inc/OneCardPlus)
 A collaborative project developed by students at Wilfrid Laurier University to explore a digital student ID and payment platform. The project involved mobile ID functionality, Apple Wallet and Google Pay integration, AWS-backed data workflows, and NFC-based access and payment features.
 
-🪏Garden Logic
+🌱 [Garden Logic](https://github.com/zenabbasit/GardenLogic)
 A Flask and Pandas-based project using a rule-based approach to provide gardening recommendations from a database of 200+ entries.
 
-🍷Wine Classification
+🍷 [Wine Quality Classification](https://github.com/zenabbasit/Wine-Quality-Classification)
 A machine learning project exploring Random Forest classification and PCA on wine data.
 Feel free to have a look around and check out some of my projects below!
 
