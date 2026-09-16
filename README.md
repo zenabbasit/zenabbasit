@@ -19,8 +19,8 @@ A machine learning project exploring Random Forest classification and PCA on win
 
 ✨ Outside of Tech                                                                                    
 When I'm not working with data or solving math problems, you'll probably find me:                     
-🎨 Painting acrylic and watercolour on canvas
-📚 Reading tragic war novels (highly recommend A Thousand Splendid Suns)
+🎨 Painting acrylic and watercolour on canvas                                                                         
+📚 Reading tragic war novels (highly recommend A Thousand Splendid Suns)                                                                         
 🏛️ Watching an unreasonable amount of Architectural Digest and pretending I'm learning architecture
 
 🌠 A Long-Term Dream                                                                                  
