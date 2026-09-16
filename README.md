@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Zenab 👋
+I'm a Computer Science & Mathematics graduate interested in AI, data, statistics, and problem solving. I especially enjoy the way mathematics and statistics can be used to understand data, find patterns, and build useful solutions.
 
-<!--
-**zenabbasit/zenabbasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I prefer working on problems where there isn't immediately an obvious answer: exploring a dataset, figuring out why a model behaves a certain way, finding patterns that aren't obvious at first, or taking a mathematical idea and turning it into something I can actually experiment with.
 
-Here are some ideas to get you started:
+🧠 Problem Solving
+Coding projects aren't the only way I practise problem solving. I also teach mathematics to high school and university students, which has become one of my favourite ways to keep developing that skill. Explaining a difficult problem in a way that actually makes sense to someone else forces me to look at it from different angles, break it down, and find simpler ways to approach it. Honestly, teaching has probably improved my own problem-solving skills more than I expected.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What I've Been Working On
+I've worked on projects involving machine learning, data analysis, statistics, and AI, with a mix of Python, R, and other tools. Some of the projects below explore things like recommendation systems, machine learning models, data-driven analysis, and using different approaches to solve interesting problems. Feel free to have a look around and check out some of my projects below!
+
+✨ Outside of Tech
+When I'm not working with data or solving math problems, you'll probably find me:
+🎨 Painting
+📚 Reading
+🏛️ Watching an unreasonable amount of Architectural Digest and pretending I'm learning architecture
+
+🌠 A Long-Term Dream
+One of my lifelong obsessions has been Oxford. It didn't work out the way I originally imagined, and life had other plans for now. But it's still somewhere I'd genuinely love to end up one day, in some way or another.
+
+Some goals change with time. That one hasn't.
